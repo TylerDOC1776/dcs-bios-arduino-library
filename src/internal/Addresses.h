@@ -9783,6 +9783,8 @@
 #define CommonData_MISS_TIME_A 0x0438
 #define CommonData_MOD_TIME_A 0x0440
 #define CommonData_PILOTNAME_A 0x0406
+#define CommonData_TEST_WORKFLOW 0x041E, 0x8000, 15
+#define CommonData_TEST_WORKFLOW_AM 0x041E, 0x8000
 #define CommonData_TIME_MODEL_HIGH 0x044A, 0xFFFF, 0
 #define CommonData_TIME_MODEL_HIGH_A 0x044A
 #define CommonData_TIME_MODEL_LOW 0x044C, 0xFFFF, 0
